@@ -2,9 +2,9 @@
   "name": "image-quest",
   "version": "1.0.0",
   "description": "Image management API",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node lib/index.js"
   },
   "author": "",
   "license": "MIT",
